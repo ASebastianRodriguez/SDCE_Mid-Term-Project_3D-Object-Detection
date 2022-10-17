@@ -132,5 +132,5 @@ Parts of this project are based on the following repositories:
 ## License
 [License](LICENSE.md)
 
-# USAR ESTE COMANDO PARA PERMITIR QUE SE EJCUTE EL PROGRTAMA:
+### IMPORTANT: RUN THIS COMMAND IN A VENV IN PYTHON TO EXECUTE CORRECTLY THE PROGRAM.
 PYTHONPATH="/home/asrc/01_SDCE_Udacity/Proyecto_2_3D-Object-Detection/nd013-c2-fusion-starter-main/"
