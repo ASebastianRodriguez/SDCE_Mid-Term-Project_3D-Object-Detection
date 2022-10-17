@@ -134,4 +134,6 @@ Parts of this project are based on the following repositories:
 [License](LICENSE.md)
 
 ### IMPORTANT: RUN THIS COMMAND IN A VENV IN PYTHON TO EXECUTE CORRECTLY THE PROGRAM.
-PYTHONPATH="/home/asrc/01_SDCE_Udacity/Proyecto_2_3D-Object-Detection/nd013-c2-fusion-starter-main/"
+PYTHONPATH="/home/asrc/01_SDCE_Udacity/Proyecto_2_3D-Object-Detection/nd013-c2-fusion-starter-main/"<br />
+
+## *[Please click here to see the results and the code associated to every exercise](https://github.com/HomeBrain-ARG/SDCE_Mid-Term-Project_3D-Object-Detection/tree/main/01_Results)*<br />
